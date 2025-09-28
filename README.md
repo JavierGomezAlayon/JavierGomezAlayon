@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate Estudent from Espain</h3>
+<h3 align="center">A passionate Estudent from Spain</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
