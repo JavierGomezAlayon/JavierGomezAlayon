@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **alu0101562445@ull.edu.es**
 
-- ⚡ Fun fact **Soy un muerto viviente estudiando tanto :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
